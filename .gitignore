@@ -8,3 +8,21 @@ venv/
 Desktop/
 Documents/
 ntuser.dat*
+.windows-build-tools/
+3D Objects/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+advanced_ip_scanner_Aliases.bin
+advanced_ip_scanner_Comments.bin
+advanced_ip_scanner_MAC.bin
+source/
