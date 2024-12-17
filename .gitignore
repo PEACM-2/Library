@@ -2,3 +2,9 @@ node_modules/
 AppData/
 Cookies/
 Local Settings/
+venv/
+.DS_Store
+*.log
+Desktop/
+Documents/
+ntuser.dat*
